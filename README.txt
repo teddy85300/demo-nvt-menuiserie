@@ -1,15 +1,5 @@
-MAQUETTE WEBÉCLAT — NVT MENUISERIE
+NVT Menuiserie — maquette non officielle WebÉclat
 
-Cette démonstration n'est PAS le site officiel de NVT Menuiserie.
-Les visuels sont des compositions CSS décoratives, pas des photos de chantiers.
-Les prestations présentées sont des propositions à confirmer avec l'entreprise.
-Aucune coordonnée ni formulaire client actif n'a été ajouté sans consentement.
+Pour mettre à jour GitHub Pages : déposer index.html, style.css et les 5 images JPG à la racine du dépôt demo-nvt-menuiserie. Accepter le remplacement des fichiers existants via Commit changes.
 
-PUBLIER SUR GITHUB PAGES
-1. Décompresser le ZIP.
-2. Créer un dépôt GitHub public dédié à la démonstration.
-3. Déposer index.html et style.css à la racine du dépôt.
-4. Settings > Pages > Deploy from a branch > main / (root) > Save.
-5. Attendre la publication et ouvrir l'adresse indiquée dans GitHub Pages.
-
-Avant toute publication ou envoi commercial, relire et valider les informations.
+Les visuels sont des illustrations générées par IA et ne représentent pas de véritables réalisations de NVT Menuiserie. Aucun formulaire ou contact de l’entreprise n’est activé.
